@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 11:23:58</sys_created_on>
+        <sys_id>92fa161c97a511105e0bbfb3f153af01</sys_id>
+        <sys_name>x_858995_test_scop_test_table.x_858995_test_scop.test_table_user</sys_name>
+        <sys_package display_value="Test Scoped App" source="x_858995_test_scop">4b1a9e5897a511105e0bbfb3f153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Scoped App">4b1a9e5897a511105e0bbfb3f153afe8</sys_scope>
+        <sys_security_acl display_value="x_858995_test_scop_test_table">9afad21c97a511105e0bbfb3f153affe</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_92fa161c97a511105e0bbfb3f153af01</sys_update_name>
+        <sys_user_role display_value="x_858995_test_scop.test_table_user" name="x_858995_test_scop.test_table_user">42fa521c97a511105e0bbfb3f153afd8</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_858995_test_scop.test_table_user" name="x_858995_test_scop.test_table_user">42fa521c97a511105e0bbfb3f153afd8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 11:23:57</sys_created_on>
+        <sys_id>82fa521c97a511105e0bbfb3f153afda</sys_id>
+        <sys_name>42fa521c97a511105e0bbfb3f153afd8</sys_name>
+        <sys_package display_value="Test Scoped App" source="x_858995_test_scop">4b1a9e5897a511105e0bbfb3f153afe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Scoped App">4b1a9e5897a511105e0bbfb3f153afe8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_82fa521c97a511105e0bbfb3f153afda</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
