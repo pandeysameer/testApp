@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="bfca521c97a511105e0bbfb3f153af7e" label="Test Table" max_length="40" name="x_858995_test_scop_test_table" type="collection">
+    <element label="Test Table for Test App" max_length="40" name="x_858995_test_scop_test_table" type="collection">
         <element label="App" max_length="40" name="app" type="string"/>
+        <element label="Demo" max_length="60" name="demo" type="string"/>
         <element label="Scope" max_length="40" name="scope" type="string"/>
         <element label="Target" max_length="40" name="target" type="string"/>
     </element>
